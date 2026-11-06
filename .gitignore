@@ -1,0 +1,18 @@
+# Unreal Engine Temporary Folders
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# C++ Build & Binary Output
+Binaries/
+Build/
+
+# Visual Studio & IDE files
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+.idea/
